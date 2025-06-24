@@ -1,3 +1,4 @@
+// File: app/page.tsx
 "use client";
 
 export default function Home() {
@@ -7,21 +8,21 @@ export default function Home() {
       name: "Notion Life Planner",
       price: 2500,
       desc: "All-in-one Notion template for personal planning.",
-      paystack: "https://paystack.com/pay/notion-life-planner",
+      paystack: "https://paystack.shop/pay/rifuca2e54",
     },
     {
       id: 2,
       name: "Modern CV Template",
       price: 3000,
       desc: "Professional resume template in Word & PDF.",
-      paystack: "https://paystack.com/pay/modern-cv-template",
+      paystack: "#", // waiting for real link
     },
     {
       id: 3,
       name: "UI Kit Starter Pack",
       price: 4500,
       desc: "Figma-based UI kit for startups & designers.",
-      paystack: "https://paystack.com/pay/ui-kit-starter-pack",
+      paystack: "#", // waiting for real link
     },
   ];
 
